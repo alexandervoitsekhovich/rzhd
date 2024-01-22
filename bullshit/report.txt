@@ -1,0 +1,107 @@
+Информация: Обработка компонента 'A1:Module:Arduino_Nano'.
+Информация: Обработка компонента 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Информация: Обработка компонента 'C3:Capacitor_SMD:C_0805_2012Metric'.
+Информация: Обработка компонента 'C4:Capacitor_SMD:C_0805_2012Metric'.
+Информация: Обработка компонента 'C5:Capacitor_SMD:C_0805_2012Metric'.
+Информация: Обработка компонента 'C6:Capacitor_SMD:C_0805_2012Metric'.
+Информация: Обработка компонента 'C7:Capacitor_SMD:C_0805_2012Metric'.
+Информация: Обработка компонента 'C8:Capacitor_SMD:C_0805_2012Metric'.
+Информация: Обработка компонента 'C9:Capacitor_SMD:C_0805_2012Metric'.
+Информация: Обработка компонента 'J1:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Информация: Обработка компонента 'J2:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Информация: Обработка компонента 'J3:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Информация: Обработка компонента 'J4:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Информация: Обработка компонента 'J5:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Информация: Обработка компонента 'J6:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Информация: Обработка компонента 'J7:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Информация: Обработка компонента 'J8:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Информация: Обработка компонента 'J9:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Информация: Обработка компонента 'J10:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Информация: Обработка компонента 'J11:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Информация: Обработка компонента 'J12:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Информация: Обработка компонента 'J13:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Информация: Обработка компонента 'J14:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Информация: Обработка компонента 'Q1:Package_TO_SOT_SMD:SOT-23_Handsoldering'.
+Информация: Обработка компонента 'Q2:Package_TO_SOT_SMD:SOT-23_Handsoldering'.
+Информация: Обработка компонента 'Q3:Package_TO_SOT_SMD:SOT-23_Handsoldering'.
+Информация: Обработка компонента 'Q5:Package_TO_SOT_SMD:SOT-23_Handsoldering'.
+Информация: Обработка компонента 'Q6:Package_TO_SOT_SMD:SOT-23_Handsoldering'.
+Информация: Обработка компонента 'R1:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R2:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R3:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R4:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R5:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R6:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R7:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R8:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R9:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R10:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R12:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Информация: Обработка компонента 'R13:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R14:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R15:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R16:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R17:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R18:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R19:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R20:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R21:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'R22:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Информация: Обработка компонента 'U1:Package_DIP:DIP-16_W7.62mm'.
+Информация: Обработка компонента 'U2:Package_TO_SOT_THT:TO-92_Inline_Wide'.
+Информация: Обработка компонента 'R11:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Добавлено A1 (посад.место 'Module:Arduino_Nano').
+Обозначение REF** изменено на A1.
+Значение A1 изменено с Arduino_Nano на Arduino_Nano_v3.x.
+У символа A1 сменилось посад.место с  на /060571cb-650d-4ea4-b1d4-60431648ae00.
+Обновлены свойства A1.
+Добавлена цепь unconnected-(A1-D1/TX-Pad1).
+Подключено A1 вывод 1 к unconnected-(A1-D1/TX-Pad1).
+Добавлена цепь unconnected-(A1-D0/RX-Pad2).
+Подключено A1 вывод 2 к unconnected-(A1-D0/RX-Pad2).
+Добавлена цепь unconnected-(A1-~{RESET}-Pad3).
+Подключено A1 вывод 3 к unconnected-(A1-~{RESET}-Pad3).
+Подключено A1 вывод 4 к GND.
+Подключено A1 вывод 5 к unconnected-(A1-D2-Pad5).
+Подключено A1 вывод 6 к LED_R_EN.
+Подключено A1 вывод 7 к But_rev.
+Подключено A1 вывод 8 к LED_G_EN.
+Подключено A1 вывод 9 к LED_B_EN.
+Добавлена цепь unconnected-(A1-D7-Pad10).
+Подключено A1 вывод 10 к unconnected-(A1-D7-Pad10).
+Подключено A1 вывод 11 к Latch.
+Подключено A1 вывод 12 к But_on.
+Добавлена цепь unconnected-(A1-D10-Pad13).
+Подключено A1 вывод 13 к unconnected-(A1-D10-Pad13).
+Добавлена цепь MOSI.
+Подключено A1 вывод 14 к MOSI.
+Подключено A1 вывод 15 к MISO.
+Добавлена цепь SCK.
+Подключено A1 вывод 16 к SCK.
+Добавлена цепь unconnected-(A1-3V3-Pad17).
+Подключено A1 вывод 17 к unconnected-(A1-3V3-Pad17).
+Добавлена цепь unconnected-(A1-AREF-Pad18).
+Подключено A1 вывод 18 к unconnected-(A1-AREF-Pad18).
+Подключено A1 вывод 19 к Sliv.
+Подключено A1 вывод 20 к Motor.
+Добавлена цепь unconnected-(A1-A2-Pad21).
+Подключено A1 вывод 21 к unconnected-(A1-A2-Pad21).
+Добавлена цепь unconnected-(A1-A3-Pad22).
+Добавлена цепь unconnected-(A1-A4-Pad23).
+Подключено A1 вывод 23 к unconnected-(A1-A4-Pad23).
+Добавлена цепь unconnected-(A1-A5-Pad24).
+Подключено A1 вывод 24 к unconnected-(A1-A5-Pad24).
+Подключено A1 вывод 25 к Stop.
+Подключено A1 вывод 26 к DS18_PIN.
+Подключено A1 вывод 27 к +5V.
+Добавлена цепь unconnected-(A1-~{RESET}-Pad28).
+Подключено A1 вывод 28 к unconnected-(A1-~{RESET}-Pad28).
+Подключено A1 вывод 29 к GND.
+Добавлена цепь unconnected-(A1-VIN-Pad30).
+Подключено A1 вывод 30 к unconnected-(A1-VIN-Pad30).
+Добавлена цепь unconnected-(A1-D2-Pad5).
+Подключено A1 вывод 22 к unconnected-(A1-A3-Pad22).
+
+
+Информация: Всего предупреждений: 0, ошибок: 0.
